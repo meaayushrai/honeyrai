@@ -7,9 +7,14 @@
 ## On  Web 🌎
 
 
- ![Twitter URL](https://img.shields.io/twitter/url?label=ayushra39063410&style=social&url=https%3A%2F%2Ftwitter.com%2Fayushra39063410)
  
- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg?short_path=cf72dcc" width=80px>
+ <a href="https://www.twitter.com/ayushra39063410" target="_blank" rel="nooperner noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Python"
+  height="40" style="vertical-align:top; margin:4px"></a>         <a href="https://www.linkedin.com/in/ayush-rai-418723151" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>     <a href="mailto:ayushrai12.1999@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
+ 
+
+ 
+
  
  ---
  ## 🧰Tools
@@ -22,6 +27,6 @@
 
 
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=HONEYRAI&show_icons=true&theme=tokyonight" 
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=HONEYRAI&show_icons=true&theme=tokyonight" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyrai&theme=tokyonight)
+ 
+
