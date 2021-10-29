@@ -8,7 +8,7 @@
 
 
  
- <a href="https://www.twitter.com/ayushra39063410" target="_blank" rel="nooperner noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Python"
+ <a href="https://www.twitter.com/meaayushrai" target="_blank" rel="nooperner noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Python"
   height="40" style="vertical-align:top; margin:4px"></a>         <a href="https://www.linkedin.com/in/ayush-rai-418723151" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>     <a href="mailto:ayushrai12.1999@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
  
@@ -19,7 +19,7 @@
  ---
  ## 🧰Tools
  
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100px">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="100px">   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100px">  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100px"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="100px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px">   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50px">
  
  
  
